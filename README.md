@@ -7,3 +7,6 @@ Awesome Archive of AAVE protocol
 ## Hackathon Ideas
 - https://docs.aave.com/hack/ideas
 
+## Credit Delegation
+- https://docs.aave.com/developers/guides/credit-delegation#increasing-the-credit-delegation
+
